@@ -14,8 +14,8 @@ function App() {
       <div className="container">
         <Balance />
         <IncomeExpenses />
-        <TransactinList />
         <AddTrasaction />
+        <TransactinList />
       </div>
     </GlobalProvider>
   );
